@@ -1,2 +1,3 @@
 # CreditCardApp
-Developed an application that validates credit card numbers following a number of criteria
+Developed an application that validates credit card numbers following a number of criteria.
+Technologies used: Java
